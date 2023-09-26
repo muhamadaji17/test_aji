@@ -1,0 +1,4 @@
+# pertama instal package yang dibutuhkan 'npm i'
+# run server dengan cara buka terminal 'node app'
+# buka postman masukan authorization 'apasaja'
+# jika tidak ada authorization maka akan unathorize 
